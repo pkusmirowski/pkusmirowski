@@ -1,10 +1,6 @@
 ### Hello there
 - 👨‍💻 All of my projects are available at [https://github.com/pkusmirowski?tab=repositories](https://github.com/pkusmirowski?tab=repositories)
 
-- 🔭 I’m currently working on [BookStore-BlazorNET6](https://github.com/pkusmirowski/BookStore-BlazorNET6)
-
-- 🌱 I’m currently learning **Blazor**
-
 <p align="left">
 </p>
 
